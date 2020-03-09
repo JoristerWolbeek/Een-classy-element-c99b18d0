@@ -1,1 +1,1 @@
-document.getElementById("this").innerHTML = document.title;
+document.querySelector("h1").classList.add("werkt");
